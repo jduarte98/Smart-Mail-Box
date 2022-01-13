@@ -1,0 +1,26 @@
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\bin\Debug\SmartMailBox.exe.config
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\bin\Debug\SmartMailBox.exe
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\bin\Debug\SmartMailBox.pdb
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\bin\Debug\SmartMailBox.xml
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.vbprojResolveAssemblyReference.cache
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.Form1.resources
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.Form2.resources
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.Resources.resources
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.vbproj.GenerateResource.Cache
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.exe
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.xml
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.pdb
+C:\Users\Cliente\Desktop\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.splscreen.resources
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\bin\Debug\SmartMailBox.exe.config
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.exe
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.xml
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.pdb
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\bin\Debug\SmartMailBox.exe
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\bin\Debug\SmartMailBox.pdb
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\bin\Debug\SmartMailBox.xml
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.vbprojResolveAssemblyReference.cache
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.Form1.resources
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.Form2.resources
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.Resources.resources
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.splscreen.resources
+C:\Users\Cliente\Desktop\Smart Mail Box\SmartMailBox\SmartMailBox\obj\Debug\SmartMailBox.vbproj.GenerateResource.Cache
