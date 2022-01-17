@@ -1,7 +1,7 @@
 # Smart Mail Box
 
 Este projeto consiste na transformação de uma caixa do correio comum numa cujo objetivo direto é simplesmente a facilitar o seu uso em qualuqer contexto, por qualquer pessoa.
-Para isso, foram adicionadas á caixa do correio um conjunto de funcionalidades que parecem. pontos fundamentais, como o controlo inteiligente de correio, segurança na abertura da caixa e uma aplicação de controlo, que é um dos pontos fundamentais para o correto funcionamento do projeto.
+Para isso, foram adicionadas á caixa do correio um conjunto de funcionalidades como o controlo inteiligente de correio, segurança na abertura da caixa e uma aplicação de controlo, que é um dos pontos fundamentais para o correto funcionamento do projeto.
 
 ## Funcionalidades
 * Deteção de correio;
