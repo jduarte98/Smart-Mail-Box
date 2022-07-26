@@ -11,10 +11,15 @@ Para isso, foram adicionadas á caixa do correio um conjunto de funcionalidades 
 * Aplicação de Controlo;
 
 ## Materiais
+![Mail Box](https://github.com/jduarte98/Smart-Mail-Box/blob/main/Materials/mailbox.png)
 * Caixa de Correio;
+![Arduino Mega](https://github.com/jduarte98/Smart-Mail-Box/blob/main/Materials/arduinoMega2560.png)
 * [Arduino](https://www.arduino.cc);
+![Ultrassonic Sensor](https://github.com/jduarte98/Smart-Mail-Box/blob/main/Materials/HCST04UltrassonicSensor.png)
 * [Sensor Ultrasónico HC-SR04](https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/);
+![Servo](https://github.com/jduarte98/Smart-Mail-Box/blob/main/Materials/sg90Servo.png)
 * [Servo SG90](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf);
+![Keyboard](https://github.com/jduarte98/Smart-Mail-Box/blob/main/Materials/3x4MKeyboard.png)
 * [Teclado de Membrana 3x4](https://mauser.pt/catalog/product_info.php?products_id=096-4642);
 
 ## Linguagens
@@ -27,5 +32,5 @@ Projeto Final da Avaliação Periódica da Unidade Curricular de Fundamentos da 
 ## Autores
 * [João Duarte](https://github.com/jduarte98);
 * Francisco Garcia;
-* Hugo Henriques;
+* [Hugo Henriques](https://github.com/hugomvh?tab=repositories);
 * Daniel Santos;
