@@ -13,7 +13,7 @@ Para isso, foram adicionadas á caixa do correio um conjunto de funcionalidades 
 ## Materiais
 * Caixa de Correio;
 * [Arduino](https://www.arduino.cc);
-* [Sensor Ultrasónico HC-SR04](https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/);
+* [Sensor Ultrassónico HC-SR04](https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/);
 * [Servo SG90](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf);
 * [Teclado de Membrana 3x4](https://mauser.pt/catalog/product_info.php?products_id=096-4642);
 
